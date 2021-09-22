@@ -1,0 +1,23 @@
+{
+  "name": "polished-readme",
+  "version": "1.0.0",
+  "description": "Create A clean and polished readme using this application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamjuli0/polished-readme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teamjuli0/polished-readme/issues"
+  },
+  "homepage": "https://github.com/teamjuli0/polished-readme#readme",
+  "dependencies": {
+    "inquirer": "^8.1.5"
+  }
+}
